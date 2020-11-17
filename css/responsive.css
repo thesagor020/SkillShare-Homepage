@@ -1,0 +1,139 @@
+
+
+@media(max-width:1399px){
+   
+}
+@media(max-width:1199px){
+    header .btn-active {
+        padding: 5px 10px!important;
+        display: inline-block;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        margin-left: 0px;
+    }
+    .banner-inner span {
+        margin-top: 30px;
+    }
+    .learning-content {
+        padding: 30px 33px;
+        max-width: 100%;
+    }
+    .learning-img img{
+        height: 360px;
+    }
+    .learning-content h2 {
+        font-size: 27px;
+        line-height: 38px;
+        padding-bottom: 0px;
+    }
+    .learning-content .divider {
+        margin-bottom: 10px;
+    }
+    .learning-content p {
+        font-size: 16px;
+        padding-bottom: 0px;
+    }
+    .video-section .video-inner h2 {
+        font-size: 22px;
+        padding-bottom: 30px;
+    }
+    footer .footer-content h1 {
+        font-size: 36px;
+        line-height: 45px;
+    }
+}
+@media(max-width:991px){
+    
+
+}
+
+@media(max-width:767px){
+    .banner-section .banner-content h1 {
+        font-size: 32px;
+        line-height: 38px;
+    }
+    .banner-inner span {
+        margin-top: 30px;
+    }
+    .compare-inner {
+        padding: 10px 58px;
+    }
+    .learning-content{
+        padding: 13px 14px;
+    }
+    .learning-content p {
+        line-height: 20px;
+        font-size: 16px;
+        padding-bottom: 0px;
+    }
+    .quate-section .quate-inner {
+        padding: 30px 30px;
+    }
+    footer .footer-content {
+        padding: 15px 40px;
+    }
+
+}
+@media(max-width:575px){
+    .fixed-top {
+        position: unset;
+    }
+    .banner-section {
+        padding: 90px 0px 30px;
+    }
+    .banner-section .banner-content {
+        padding: 40px 0px 0px;
+    }
+    .banner-section .banner-content h5 {
+        font-size: 16px;
+    }
+    .banner-section .banner-content h1 {
+        font-size: 18px;
+        line-height: 29px;
+    }
+    .banner-content p {
+        font-size: 14px;
+    }
+    
+    .banner-inner .team {
+        padding: 15px;
+    }
+    .banner-inner span {
+        display: none;
+    }
+    .customer-section img {
+        display: block;
+        margin: 0 auto;
+        padding: 5px 0px;
+    }
+    .compare-section {
+        padding: 15px 0px;
+    }
+    .compare-inner {
+        padding: 10px 0px;
+    }
+    .learning-img img {
+        padding: 5px;
+    }
+    .flex-dd{
+        display: flex;
+        flex-direction: column-reverse!important;
+    }
+    .quate-section .quate-inner {
+        padding: 30px 10px;
+    }
+    footer .footer-content {
+        padding: 14px 0px;
+    }
+    footer .footer-content h1 {
+        font-size: 27px;
+        line-height: 38px;
+    }
+    footer .footer-widget ul li {
+        padding: 0px 6px;
+        font-size: 15px;
+    }
+}
+@media(max-width:320px){
+  
+}
